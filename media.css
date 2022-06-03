@@ -1,0 +1,98 @@
+@media (min-width:1167px) and (max-width:1440px) {
+    .inputsec{
+        width: 50vw;
+        
+        display: flex;
+        justify-content: space-between;
+    }
+    .inputsec button{
+        width: 140px;
+    }
+    .inputsec input{
+        width: 330px;
+    }
+}
+@media (min-width:915px) and (max-width:1166px){
+    .inputsec{
+        width: 48vw;
+        
+        display: flex;
+        justify-content: space-between;
+    }
+    .inputsec button{
+        width: 100px;
+    }
+    .inputsec input{
+        width: 250px;
+    }
+
+}
+@media (min-width:695px) and (max-width:914px){
+    .inputsec{
+        width: 50vw;
+        
+        display: flex;
+        justify-content: space-between;
+    }
+    .inputsec button{
+        width: 70px;
+    }
+    .inputsec input{
+        width: 200px;
+    }
+
+}
+@media (min-width:385px) and (max-width:694px){
+    .inputsec{
+        width: 80vw;
+        
+        display: flex;
+        justify-content: space-between;
+    }
+    .inputsec button{
+        width: 70px;
+    }
+    .inputsec input{
+        width: 180px;
+    }
+    #list{
+        width: 95vw;
+    }
+
+}
+@media only screen and (max-width:380px)
+{
+    .inputsec{
+        width: 90vw;
+        
+        display: flex;
+        justify-content: space-between;
+    }
+    .inputsec button{
+        width: 60px;
+    }
+    .inputsec input{
+        width: 140px;
+    }
+    #list{
+        width: 100vw;
+    }
+    .btn{
+        position: relative;
+      
+        width: 55px;
+        border-radius: 0px 0px 0px 0px ;
+    }
+   
+    .editbtn{
+       position: relative;
+     
+       
+        width: 55px;
+        right: 10px;
+        border-radius: 0px 0px 0px 0px;
+    }
+}
+
+
+
